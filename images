@@ -1,0 +1,7 @@
+git add .
+git commit -m "Add images"
+git push origin main
+
+KakaoTalk_20251029_152434909_04.jpg
+KakaoTalk_20251029_152455501_03.jpg
+KakaoTalk_20251029_152606104_06.png
